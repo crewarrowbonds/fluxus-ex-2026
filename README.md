@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=44&pause=500&color=00CED1&center=true&vCenter=true&width=1100&height=130&lines=FLUXUS+EXECUTOR+2026;KEYLESS+%7C+FAST+INJECTION+%7C+SCRIPT+HUB;RUN+ANY+SCRIPT" alt="Fluxus Executor 2026" />
-
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/db0285b1-d7db-46cb-9752-c9d4a5983b9d" />
 <br/>
 
 <img src="https://img.shields.io/badge/Status-UNDETECTED-00CED1?style=for-the-badge&labelColor=1A2A3A" />
